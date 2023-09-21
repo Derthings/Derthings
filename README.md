@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Derthings Welcome to my Github
 - 👀 I’m interested in Programming 
-- 🌱 I’m currently learning 
+- 🌱 I’m currently learning HTML, PYTHON 
 - 💞️ I’m looking to collaborate on Github 
 - 📫 How to reach me contact me in @odparker14@gmail.com
 
